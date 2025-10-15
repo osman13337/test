@@ -1,0 +1,3 @@
+<script>
+window.open("google.com");
+</script>
